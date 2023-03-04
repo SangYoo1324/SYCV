@@ -23,12 +23,12 @@ h1{
     justify-content: space-around;
 }
 
-.infobox>ul>li:first-child{
+/* .infobox>ul>li:first-child{
     list-style: none;
-}
+} */
 
 .infobox>ul>li{
-    font-size: 25px;
+    font-size: 20px;
 }
 
 .education{
